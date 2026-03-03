@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+data/*.csv
+models/*.pkl
+models/*.json
+mlruns/
+reports/*.png
+.vercel
+node_modules/
