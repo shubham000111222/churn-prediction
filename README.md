@@ -1,5 +1,6 @@
-# Customer Churn Prediction Engine
+# SaaS Customer Churn Prediction Engine
 
+**[Live Demo](https://churn-prediction-grph4xyczphtcaaqfwdh3d.streamlit.app/)**
 > End-to-end ML system for predicting customer churn using XGBoost + LightGBM ensemble with SHAP explainability. Served via FastAPI with real-time scoring < 50ms.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-orange) ![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green) ![Docker](https://img.shields.io/badge/Docker-ready-blue)
